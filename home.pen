@@ -67,12 +67,12 @@
             },
             "colors": [
               {
-                "color": "#6366F1",
-                "position": 0
+                "color": "#898aee",
+                "position": 1
               },
               {
-                "color": "#8B5CF6",
-                "position": 1
+                "color": "#4510c3",
+                "position": 0.07
               }
             ]
           },
@@ -88,8 +88,9 @@
             "blur": 24
           },
           "layout": "vertical",
-          "gap": 16,
+          "gap": 18,
           "padding": 20,
+          "justifyContent": "space_between",
           "children": [
             {
               "type": "frame",

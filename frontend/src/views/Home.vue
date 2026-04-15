@@ -188,7 +188,7 @@ function handleDelete(id) {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
   box-sizing: border-box;
 }
 
@@ -217,7 +217,7 @@ function handleDelete(id) {
   gap: 16px;
   padding: 20px;
   border-radius: 20px;
-  background: linear-gradient(135deg, #6366F1 0%, #8B5CF6 100%);
+  background: linear-gradient(135deg, #4510c3 7%, #898aee 100%);
   box-shadow: 0 8px 24px rgba(99, 102, 241, 0.2);
   color: #fff;
 }
